@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/](https://github.com/)
 
-- 📝 I regularly make video on [You Tube](You Tube)
+- 📝 I regularly make video on [You Tube]
 
 - 💬 Ask me about **p5.js/javascript/html/css/react**
 
-- 📫 How to reach me related to **kumaripreetiaarya00@gmail.com**
+- 📫 How to reach me **kumaripreetiaarya00@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?utm_content=DAGQd97ZRGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?utm_content=DAGQd97ZRGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
