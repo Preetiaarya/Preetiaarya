@@ -26,13 +26,13 @@
 
 ## Connect with me  
 <p align="left">  
-  <a href="https://linkedin.com/in/preeti-aarya" target="_blank">
+  <a href="https://linkedin.com/in/preeti-aarya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>  
-  <a href="https://github.com/PreetiAarya" target="_blank">
+  <a href="https://github.com/PreetiAarya" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>  
-  <a href="mailto:kumaripreetiaarya00@gmail.com" target="_blank">
+  <a href="mailto:kumaripreetiaarya00@gmail.com" target="blank">
     <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" />
   </a>  
 </p>
