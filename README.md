@@ -1,16 +1,21 @@
-<h1 align="center">Hi 👋, I'm Preeti Aarya</h1>
-<h3 align="center">A Passionate Frontend Developer 🚀 | Learning JavaScript & React</h3>
+<h1 align="center">A Passionate Frontend Developer 🚀 | Learning JavaScript & React</h1>
 
-<img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp?cid=ecf05e47tggo9oydeuz51b4jmze8n85ylh6jh20uv56jaety&ep=v1_stickers_search&rid=giphy.webp&ct=s">
-
+<p align="left">
+  <img align="right" alt="Coding" width="200" src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp?cid=ecf05e47tggo9oydeuz51b4jmze8n85ylh6jh20uv56jaety&ep=v1_stickers_search&rid=giphy.webp&ct=s">
+</p>
 
 🌱 I’m currently learning **JavaScript, React & UI/UX Design**  
 🔭 I’m working on **awesome frontend projects**  
 👯 I’m looking for **frontend job/internship with mentorship**  
 💬 Ask me about **HTML, CSS, JavaScript, React**  
-📫 Reach me at **kumaripreetiaarya00@gmail.com**  
+📫 Reach me at **[kumaripreetiaarya00@gmail.com](mailto:kumaripreetiaarya00@gmail.com)**  
 📄 Know more about me [Portfolio Link](#)  
 
+<p align="right">
+  <a href="https://github.com/PreetiAarya" target="_blank">
+    <img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+  </a>
+</p>
 
 
 ---
