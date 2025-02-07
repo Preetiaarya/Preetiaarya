@@ -35,6 +35,9 @@
   <a href="https://github.com/PreetiAarya" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>  
+  <a href="mailto:kumaripreetiaarya00@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" height="30" width="40" />
+  </a>  
 </p>
 
 
