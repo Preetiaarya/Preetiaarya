@@ -1,6 +1,3 @@
-# Hi there, I'm Preeti Aarya! 👋  
-🚀 **Frontend Developer | Passionate About UI/UX & Web Performance**  
-
 <h1 align="center">Hi 👋, I'm Preeti Aarya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
