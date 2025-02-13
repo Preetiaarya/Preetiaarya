@@ -43,17 +43,6 @@
 
 ---
 
-## 🚀 Tech Stack  
-<p align="left">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="30"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="30"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30"/>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30"/>
-  <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" height="30"/>
-</p>
-
----
-
 ## 🎯 Latest Projects  
 - 🚀 [Project Name 1](#)  
 - 🌟 [Project Name 2](#)  
