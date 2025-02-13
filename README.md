@@ -11,9 +11,7 @@
 - 📝 I regularly make video on [You Tube]
 - 💬 Ask me about *P5.js | JavaScript | React | HTML | CSS *
 - 🔹 *Portfolio:* (https://sajhesapne.org/)
-- 📄 Know about my experiences [[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?utm_content=DAGQd97ZRGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?utm_content=DAGQd97ZRGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-](https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?utm_content=DAGQd97ZRGs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
----
+- 📄 Know about my experiences [[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?
 ## Connect with me  
 <p align="left">  
   <a href="[https://linkedin.com/in/preeti-aarya](https://www.linkedin.com/in/preeti-aarya-bbab26306/)" target="blank">
