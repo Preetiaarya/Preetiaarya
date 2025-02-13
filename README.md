@@ -48,11 +48,6 @@
 - 🌟 [Project Name 2](#)  
 - 💡 [Project Name 3](#)  
 
----
-
-## 🤖 Fun Fact  
-🧐 "I turn **coffee ☕ into code 💻** & bugs into features!"  
-
 
 
 
