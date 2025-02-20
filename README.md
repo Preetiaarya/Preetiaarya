@@ -16,8 +16,10 @@
 
  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 50px;">
 
+ <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 50px;">
+
   <!-- Connect with me -->
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <h3>Connect with me</h3>
     <p>
       <a href="https://www.linkedin.com/in/preeti-aarya-bbab26306/" target="_blank">
@@ -30,7 +32,7 @@
   </div>
 
   <!-- Languages and Tools -->
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <h3>Languages and Tools</h3>
     <p>
       <a href="https://www.w3schools.com/css/" target="_blank">
@@ -49,7 +51,7 @@
   </div>
 
   <!-- GitHub Stats -->
-  <div style="text-align: center;">
+  <div style="text-align: center; flex: 1;">
     <h3>GitHub Stats</h3>
     <p>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiaarya&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" width="300"/>
