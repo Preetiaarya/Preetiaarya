@@ -12,6 +12,8 @@
 - 📄 Know about my experiences [[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
   
+ <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
   <!-- Connect with me -->
   <div>
     <h3>Connect with me</h3>
@@ -44,19 +46,12 @@
     </p>
   </div>
 
-  <!-- Latest Projects -->
+  <!-- GitHub Stats -->
   <div>
-    <h3>🎯 Latest Projects</h3>
-    <ul>
-      <li>🚀 <a href="#">Project Name 1</a></li>
-      <li>🌟 <a href="#">Project Name 2</a></li>
-      <li>💡 <a href="#">Project Name 3</a></li>
-    </ul>
+    <h3>GitHub Stats</h3>
+    <p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiaarya&show_icons=true&locale=en&layout=compact" alt="preetiaarya" />
+    </p>
   </div>
 
 </div>
-
-
-
-
-
