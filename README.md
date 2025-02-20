@@ -10,3 +10,8 @@
 - 💬 Ask me about *P5.js | JavaScript | React | HTML | CSS *
 - 🔹 *Portfolio:* (https://sajhesapne.org/)
 - 📄 Know about my experiences [[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?
+  
+---
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiaarya&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" width="300"/>
+</p>
