@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp?cid=ecf05e47tggo9oydeuz51b4jmze8n85ylh6jh20uv56jaety&ep=v1_stickers_search&rid=giphy.webp&ct=s">
 
-- 🔭 I am currently learning astro by practicing exercises from the astro tutorial (https://github.com/Preetiaarya/astro-project)
+- 🔭 Currently working as a Junior Software Developer at Tattle | Learning and growing every day (https://github.com/Preetiaarya/website)
 - 👯 *Done an software development internship at Tattle (Dec-Feb 2025)* 
 - 👨‍💻 All of my projects are available at (https://github.com/)
 - 📝 I regularly make video on [You Tube]
