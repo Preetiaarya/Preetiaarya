@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preeti Aarya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Tattle | Junior Software Developer | Enthusiastic about software development and collaboration</h3>
 
 <img align="right" alt="Coding" width="250" src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp?cid=ecf05e47tggo9oydeuz51b4jmze8n85ylh6jh20uv56jaety&ep=v1_stickers_search&rid=giphy.webp&ct=s">
 
