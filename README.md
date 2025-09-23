@@ -9,7 +9,7 @@
 - 📝 I regularly share coding experiments and tutorials on [You Tube]
 - 💬 Ask me about *p5.js | JavaScript | React | HTML | CSS.*
 - 🔹 *Portfolio highlights: Tattle Projects & Work:*(https://github.com/Preetiaarya/showcasing-portfolio)
-- 📄 Learn more about my experiences and contributions on LinkedIn [[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?
+- 📄 Learn more about my experiences and contributions on LinkedIn [[[https://www.canva.com/design/DAGQd97ZRGs/w13qVpzCTUND4HTT7HXNlQ/edit?](https://www.linkedin.com/in/preeti-aarya-bbab26306/)]]
 ---
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiaarya&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" width="300"/>
