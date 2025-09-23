@@ -5,7 +5,7 @@
 
 - 🔭 Working as a Junior Software Developer at Tattle, enhancing skills in frontend development and interactive coding daily. (https://github.com/Preetiaarya/website)
 - 👯 *Completed a 3-month internship at Tattle (Dec 2024 – Feb 2025), where I worked on the community page proof of concept and interactive coding projects* 
-- 👨‍💻 Explore all my projects on Github (https://github.com/)
+- 👨‍💻 Explore all my projects on Github (https://github.com/Preetiaarya)
 - 📝 I regularly share coding experiments and tutorials on [You Tube]
 - 💬 Ask me about *p5.js | JavaScript | React | HTML | CSS.*
 - 🔹 *Portfolio highlights: Tattle Projects & Work:*(https://github.com/Preetiaarya/showcasing-portfolio)
