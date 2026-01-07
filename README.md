@@ -14,6 +14,10 @@ src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp" />
 - 👯 **Completed a 3-month internship at Tattle (Dec 2024 – Feb 2025)**, where I worked on:
   - Community page proof of concept  
   - Interactive and creative coding projects using **p5.js**
+- 🔧 After my internship, I continued contributing to the **Tattle website**, where I:
+  - Learned and practiced **Git and GitHub** through real project workflows  
+  - Resolved frontend issues and raised pull requests  
+  - Improved code quality through small, incremental fixes
 - 🌱 Actively improving my **UI design skills** by practicing design principles such as spacing, hierarchy, contrast, and depth
 - 👨‍💻 All my work and experiments are available here on **GitHub**
 - 💬 Ask me about **p5.js, JavaScript, React, HTML, and CSS**
@@ -21,10 +25,10 @@ src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp" />
 
 ---
 
-### 📊 Languages & Tools
+### 🛠 Tech Stack
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=preetiaarya&show_icons=true&locale=en&layout=compact"
-alt="Top Languages" width="300"/>
-</p>
+- **Languages:** JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React, p5.js  
+- **Tools:** Git, GitHub
+
 
