@@ -3,7 +3,7 @@
 Junior Software Developer at Tattle | Frontend-focused | Learning UI design through daily practice
 </h3>
 
-<img align="right" alt="Coding" width="250"
+<img align="right" alt="Coding" width="220"
 src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp" />
 
 ---
