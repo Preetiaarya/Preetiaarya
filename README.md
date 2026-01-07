@@ -25,10 +25,4 @@ src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp" />
 
 ---
 
-### 🛠 Tech Stack
-
-- **Languages:** JavaScript, HTML, CSS  
-- **Frameworks & Libraries:** React, p5.js  
-- **Tools:** Git, GitHub
-
 
