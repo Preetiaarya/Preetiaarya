@@ -19,7 +19,7 @@ src="https://media0.giphy.com/media/p5gCVScs3vhu5ujeQM/giphy.webp" />
   - Resolved frontend issues and raised pull requests  
   - Improved code quality through small, incremental fixes
 - 🌱 Actively improving my **UI design skills** by practicing design principles such as spacing, hierarchy, contrast, and depth
-- 👨‍💻 All my work and experiments are available here on **GitHub**
+- 👨‍💻 All my work and experiments are available here on **[GitHub](https://github.com/preetiaarya)**
 - 💬 Ask me about **p5.js, JavaScript, React, HTML, and CSS**
 - 🎯 My goal is to build interfaces that are not just functional, but also clean, usable, and thoughtful
 
